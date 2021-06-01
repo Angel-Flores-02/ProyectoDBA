@@ -1,2 +1,2 @@
-Esta carpeta contendrá los query que fueron requeridos
-para la creación de este proyecto.
+- Esta carpeta contendrá los query que fueron requeridos para la creación de este proyecto.
+- El archivo "sistemadoctores.sql" es el que contendra la creación de la base de datos y de las tablas, así como de otras cosas.
